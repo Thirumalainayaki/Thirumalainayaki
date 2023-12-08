@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <link rel-"stylesheet" href-"web.css">
+
+  <title>My simple Website</title>
+</head>
+<body>
+  <header>
+    <h1>Welcome to my website
+    <nav></nav></h1>
+    <ul>
+      <li><a href-"#">Home</a>
+      <li><a href-"#">About</a>a</li>
+      <li><a href-"#">Contact</a>a</li>
+    </ul>
+  </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Ma</h2>
+      <p>I'm a web developer creating websites.</p>
+      <section>
+
+        <section>
+          <h2>Contact</h2>
+          <p>you can contact me amazing@amazing.com</p>
+        </section>
+      </main>
+
+        <footer>
+          <p>copy; 2023 my simple website</p>
+          <footer></footer>
+        </footer>
+    </section>
+  
+    </ul>
